@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm Igor.
+
+I'm eager to pursue a career in technology consulting, bringing a strong background as a BI analyst and sales professional at Bradesco Financiamentos and Oracle. With degrees in Business Administration and Computer Science, I possess advanced skills in data engineering (dbt, SQL, Alteryx, Redshift) and beginner proficiency in Java application development. Fluent in English and experienced in cloud computing, I combine technical expertise with business acumen to deliver data-driven solutions.
+
 
 <!--
 **Igor-Vilela-Custodio/Igor-Vilela-Custodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
